@@ -1,1 +1,1 @@
-$E \equals mc^2$
+$E \equal mc^2$
