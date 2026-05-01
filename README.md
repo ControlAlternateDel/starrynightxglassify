@@ -1,6 +1,1 @@
-$$
-\begin{aligned}
-E = mc^2 \\\\\\\\
-\sum_{x=1}^{20}x^2\\\\\\\\
-\int_{0}^{255} x^2 \\, dx\\\\\\\\
-\end{aligned}$$
+"Is it true that, for any $x$, if $A\subset [x,\infty)$ is a primitive set of integers (so that no distinct elements of $A$ divide each other) then\[\sum_{a\in A}\frac{1}{a\log a}< 1+o(1),\]where the $o(1)$ term $\to 0$ as $x\to \infty$?" information you may or may not need to help with the above problem "It is proved that\[\sum_{a\in A}\frac{1}{a\log a}< e^{\gamma}\frac{\pi}{4}+o(1)\approx 1.399+o(1).\]" "It is proved that if $A$ is the set of all integers with exactly $k$ prime factors (so that $A\subset [2^k,\infty)$ and $A$ is a primitive set) then\[\sum_{a\in A}\frac{1}{a\log a}\geq 1+O(k^{-1/2+o(1)}),\]" "It is proved that\[\sum_{a\in A}\frac{1}{a\log a}= 1-(c+o(1))k^22^{-k}\]where $c\approx 0.0656$ is an explicit constant."
